@@ -1,0 +1,6 @@
+{"rules": [
+  ["ONLINE TRANSFER (TO|FROM)", "Transfer between my accounts", "ignore"],
+  ["Rasier|UBER", "Rideshare earnings", "income"],
+  ["SHELL|SUNOCO|WAWA", "Gas", "expense"],
+  ["NETFLIX|SPOTIFY", "Subscriptions", "expense"]
+], "overrides": []}

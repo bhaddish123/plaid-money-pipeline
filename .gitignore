@@ -1,0 +1,6 @@
+# secrets never leave the machine (in GitHub they live in Actions secrets)
+.env
+.plaid_token.json
+*.tmp
+__pycache__/
+data/out/changes.json
